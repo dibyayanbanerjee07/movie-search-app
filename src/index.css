@@ -1,0 +1,23 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.moviePoster {
+  width: 200px;
+  height: 250px;
+}
+.movieCard {
+  width: 200px;
+  height: 300px;
+  margin: 5px;
+  float: left;
+}
+.searchBtn {
+  background: "#b71c1c";
+  border-top-right-radius: 300px;
+  border-bottom-right-radius: 300px;
+}
+.moviePosterDetail {
+  height: 40vh;
+}
